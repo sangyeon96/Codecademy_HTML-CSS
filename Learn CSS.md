@@ -30,7 +30,7 @@ In order to apply the styling to the web page, we'll have to link the HTML file 
 </head>
 ```
 
-## CSS selector
+## CSS Selector
 ```css
 p {
 
@@ -38,7 +38,7 @@ p {
 ```
 In the example above, all paragraph elements are selected using a CSS selector.
 
-### universal selector
+### Universal Selector
 ```css
 * {
   font-family: Arial;
@@ -74,13 +74,13 @@ h1, h2, p {
 }
 ```
 
-## comments
+## Comments
 `/*` `*/`
 ```css
 /* This is a comment in CSS! */
 ```
 
-## color
+## Colors
 1. The foreground color
 2. The background color
 
@@ -93,7 +93,7 @@ h1 {
 
 In CSS, these colors are technically known as **"named colors"**. There are a total of 147 named colors. If you're ever in need of a named color, a quick Google search will yield the results you are looking for.
 
-### RGB color
+### RGB colors
 RGB (Red, Green, Blue) colors.
 RGB colors work by mixing together different amounts of red (R), green (G), and blue (B). Each color (R, G, or B) can take on 1 of a possible 256 values (between 0 and 255). This results in 16,777,216 possible colors.
 
@@ -117,7 +117,7 @@ h1 {
 
 There are no differences between RGB values and hex color codes. Just different ways to represent color.
 
-### HSL color
+### HSL colors
 HSL stands for **H**ue, **S**aturation, and **L**ightness. Specifically, this is what each means:
 
 1. Hue - the technical term that describes what we understand as "color." In HSL, hue is represented on a color wheel. It can take on values between 0 and 360.
